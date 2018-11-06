@@ -1,5 +1,4 @@
-//add eyeball code here
-//outside of eye
+
 background(255,255,255);
 fill(0,0,0);
 ellipse(150,150,300,300);
